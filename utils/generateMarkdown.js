@@ -3,37 +3,36 @@
 function generateMarkdown(data) {
     return `# ${data.title}
 
-    ### License
+### License
 ![GitHub license](https://img.shields.io/badge/License-MIT-blue)
     
-    # Description
-    ${data.description}
+# Description
+${data.description}
 
-    ### Table of Contents
-    * [Description](#description)
-    * [Installation](#installation)
-    * [Usage](#usage)
-    * [Tests](#tests)
-    * [Questions](#questions)
-    * [Contributors](#contributors)
-    * [License](#license)
-
-    ## Installation
+### Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Tests](#tests)
+* [Questions](#questions)
+* [Contributors](#contributors)
+* [License](#license)
+* 
+* 
+## Installation
     ${data.insallation}
 
-    ## Usage
+## Usage
     ${data.usage}
 
-    ## Tests
+## Tests
     ${data.tests}
 
-    ## Contributors
+## Contributors
     ${data.contributors}
 
-    ## Questions
-    All questions about this application can be sent to: \n
-        <a href="${data.link}">${data.github}</a> \n
-        <a href="mailto:${data.email}">${data.email}</a>
+#### Questions
+<a href="mailto:${data.email}">If you have any questions please reach out to me:</a>
     `;
 }
 
