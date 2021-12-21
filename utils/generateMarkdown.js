@@ -32,7 +32,7 @@ ${data.description}
     ${data.contributors}
 
 #### Questions
-<a href="mailto:${data.email}">If you have any questions please reach out to me:</a>
+[email](mailto:${data.email})
     `;
 }
 
