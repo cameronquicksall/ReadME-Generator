@@ -27,7 +27,17 @@ This application introduces an efficient way to develop your README.md files for
 
 ## Contributors
     Cameron Quicksall
+    
+## Screenshot
+   https://watch.screencastify.com/v/f4ApxBbG3u3iJzUUoPOt
+   
+<img width="1440" alt="Screen Shot 2021-12-18 at 9 40 05 PM" src="https://user-images.githubusercontent.com/91788324/146663332-0fcf128e-cbf9-4c38-a7e0-e8d85ff9f5b6.png">
 
 #### Questions
+<<<<<<< HEAD
 <a href="mailto:cameronquicksall70@gmail.com">If you have any questions please reach out to me:</a>
     
+=======
+<a href="mailto:cameron.quicksall70@gmail.com">If you have any questions please reach out to me:</a>
+    
+>>>>>>> 7ada99b4e011a0182fe2dd9ac1fc7544a1811318
